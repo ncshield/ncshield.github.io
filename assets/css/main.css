@@ -2933,7 +2933,7 @@
 					.wrapper.style1 input[type="button"].alt.icon:before,
 					.wrapper.style1 button.alt.icon:before,
 					.wrapper.style1 .button.alt.icon:before {
-						color: #fbb5b5;
+						color: #4d4d4d;
 					}
 
 				.wrapper.style1 input[type="submit"].special,
@@ -2996,23 +2996,23 @@
 			}
 
 			.wrapper.style1 ::-webkit-input-placeholder {
-				color: #fbb5b5 !important;
+				color: #4d4d4d !important;
 			}
 
 			.wrapper.style1 :-moz-placeholder {
-				color: #fbb5b5 !important;
+				color: #4d4d4d !important;
 			}
 
 			.wrapper.style1 ::-moz-placeholder {
-				color: #fbb5b5 !important;
+				color: #4d4d4d !important;
 			}
 
 			.wrapper.style1 :-ms-input-placeholder {
-				color: #fbb5b5 !important;
+				color: #4d4d4d !important;
 			}
 
 			.wrapper.style1 .formerize-placeholder {
-				color: #fbb5b5 !important;
+				color: #4d4d4d !important;
 			}
 
 			.wrapper.style1 ul.alt li {
@@ -3020,7 +3020,7 @@
 			}
 
 			.wrapper.style1 header p {
-				color: #fbb5b5;
+				color: #4d4d4d;
 			}
 
 			.wrapper.style1 table tbody tr {
@@ -3353,7 +3353,7 @@
 		}
 
 			#header .logo a {
-				font-size: 1.25em;
+				font-size: 1.5em;
 				color: #fff;
 				font-weight: 600;
 				text-decoration: none;
@@ -3467,9 +3467,9 @@
 		-ms-transition: -ms-transform 0.5s ease, box-shadow 0.5s ease, visibility 0.5s;
 		transition: transform 0.5s ease, box-shadow 0.5s ease, visibility 0.5s;
 		-webkit-overflow-scrolling: touch;
-		background: #2e74b7;
+		background: #ffffff;
 		box-shadow: none;
-		color: #ffffff;
+		color: #2e74b7;
 		height: 100%;
 		max-width: 80%;
 		overflow-y: auto;
@@ -3502,6 +3502,7 @@
 						display: block;
 						line-height: 3.5em;
 						text-decoration: none;
+						font-weight: bold;
 					}
 
 					#menu > ul.links > li > .button {
@@ -3521,7 +3522,7 @@
 			transition: color 0.2s ease-in-out;
 			-webkit-tap-highlight-color: transparent;
 			border: 0;
-			color: #fbb5b5;
+			color: #4d4d4d;
 			cursor: pointer;
 			display: block;
 			height: 3.25em;
@@ -3550,7 +3551,7 @@
 			}
 
 			#menu .close:hover {
-				color: #ffffff;
+				color: #2e74b7;
 			}
 
 			@media screen and (max-width: 736px) {
@@ -4270,7 +4271,7 @@
 				#footer input[type="button"].alt.icon:before,
 				#footer button.alt.icon:before,
 				#footer .button.alt.icon:before {
-					color: #fbb5b5;
+					color: #4d4d4d;
 				}
 
 			#footer input[type="submit"].special,
@@ -4333,23 +4334,23 @@
 		}
 
 		#footer ::-webkit-input-placeholder {
-			color: #fbb5b5 !important;
+			color: #4d4d4d !important;
 		}
 
 		#footer :-moz-placeholder {
-			color: #fbb5b5 !important;
+			color: #4d4d4d !important;
 		}
 
 		#footer ::-moz-placeholder {
-			color: #fbb5b5 !important;
+			color: #4d4d4d !important;
 		}
 
 		#footer :-ms-input-placeholder {
-			color: #fbb5b5 !important;
+			color: #4d4d4d !important;
 		}
 
 		#footer .formerize-placeholder {
-			color: #fbb5b5 !important;
+			color: #4d4d4d !important;
 		}
 
 		#footer ul.alt li {
@@ -4357,7 +4358,7 @@
 		}
 
 		#footer header p {
-			color: #fbb5b5;
+			color: #4d4d4d;
 		}
 
 		#footer table tbody tr {
