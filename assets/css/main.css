@@ -23,7 +23,7 @@
 
 .myDIV:hover + .hide {
   display: block;
-  color: red;
+  color: black;
 }
 	}
 
