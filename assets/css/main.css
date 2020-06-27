@@ -2058,7 +2058,7 @@
 			input[type="button"].special:hover,
 			button.special:hover,
 			.button.special:hover {
-				background-color: #f75f5f;
+				background-color: #cccccc;
 			}
 
 			input[type="submit"].special:active,
@@ -2066,7 +2066,7 @@
 			input[type="button"].special:active,
 			button.special:active,
 			.button.special:active {
-				background-color: #f52f2f;
+				background-color: #313131;
 			}
 
 /* Flex */
